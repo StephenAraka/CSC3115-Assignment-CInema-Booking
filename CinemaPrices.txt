@@ -1,0 +1,4 @@
+Very VIP = 100,000 shillings
+VIP = 50,000 shillings
+Twin Seats = 25,000 shillings
+Economy = 20,000 shillings
