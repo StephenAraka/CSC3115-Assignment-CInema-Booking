@@ -19,7 +19,7 @@ export var data = [
 ]
 
 export var columns = [
-    { dataField: 'id', },
+    { dataField: 'id', sort: true },
     { dataField: 'number1', text: 1 },
     { dataField: 'number2', text: 2 },
     { dataField: 'number3', text: 3 },

@@ -8,8 +8,6 @@ h4 {
     font-size: 25px;
     font-family: cursive;
     font-style: italic;
-    text-decoration-style: dashed;
-    text-emphasis-color: black;
     margin-bottom: 50px;
 }
 
@@ -38,8 +36,17 @@ input {
     color: #61dafb;
 }
 
-form {
+.inputHint {
     color: black;
+    margin: 20px;
+}
+
+.submitIt {
+    color: black;
+}
+
+.Availability {
+    text-align: left;
 }
 
 @keyframes App-logo-spin {

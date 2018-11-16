@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/core-js": "^2.5.0",
+    "@types/react": "^16.7.6",
     "react": "^16.6.0",
     "react-bootstrap-table-next": "^1.4.1",
     "react-dom": "^16.6.0",
